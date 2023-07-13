@@ -1,0 +1,1 @@
+const a={key:"v-0c2e0805",path:"/base/array.html",title:"array",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1689250539e3,contributors:[{name:"vincy.li",email:"vincy.li@cloudwise.com",commits:1}]},filePathRelative:"base/array.md"};export{a as data};

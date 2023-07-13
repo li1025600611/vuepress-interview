@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,b as r,a as c}from"./app.67d9887e.js";const o={},s={id:"git",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#git","aria-hidden":"true"},"#",-1);function i(n,d){return t(),a("h1",s,[_,r(" git")])}var f=e(o,[["render",i],["__file","git.html.vue"]]);export{f as default};

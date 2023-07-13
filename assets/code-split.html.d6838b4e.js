@@ -1,1 +1,0 @@
-const e={key:"v-065e6b8e",path:"/senior/code-split.html",title:"\u4EE3\u7801\u5206\u5272",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1689218882e3,contributors:[{name:"vincy.li",email:"vincy.li@cloudwise.com",commits:1}]},filePathRelative:"senior/code-split.md"};export{e as data};
