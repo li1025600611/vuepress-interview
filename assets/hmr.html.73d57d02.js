@@ -1,0 +1,1 @@
+const e={key:"v-059ff1d2",path:"/senior/hmr.html",title:"HMR",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1689218882e3,contributors:[{name:"vincy.li",email:"vincy.li@cloudwise.com",commits:1}]},filePathRelative:"senior/hmr.md"};export{e as data};

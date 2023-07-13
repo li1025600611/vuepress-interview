@@ -1,0 +1,1 @@
+const e={key:"v-252bd01f",path:"/senior/tree-shaking.html",title:"Tree Shaking",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1689218882e3,contributors:[{name:"vincy.li",email:"vincy.li@cloudwise.com",commits:1}]},filePathRelative:"senior/tree-shaking.md"};export{e as data};
