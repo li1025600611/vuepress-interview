@@ -2,7 +2,7 @@
  * Author  rhys.zhao
  * Date  2023-03-02 14:02:43
  * LastEditors  Vincy.Li
- * LastEditTime  2023-07-13 11:23:07
+ * LastEditTime  2023-07-13 11:27:50
  * Description
  */
 
@@ -13,7 +13,7 @@ module.exports = {
   title: "速学Webpack5",
   description: "用最简单的方式学习Webpack5",
 
-  port: "8888",
+  port: "0512",
 
   // 主题和它的配置
   theme: "@vuepress/theme-default",
