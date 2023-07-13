@@ -1,25 +1,24 @@
 /*
- * Author  rhys.zhao
- * Date  2023-03-02 14:02:43
+ * Author  Vincy.Li
+ * Date  2023-03-16 19:16:22
  * LastEditors  Vincy.Li
- * LastEditTime  2023-07-13 11:27:50
+ * LastEditTime  2023-07-13 20:14:44
  * Description
  */
-
 module.exports = {
   base: "/vuepress-interview/",
   lang: "zh-CN",
   head: [["link", { rel: "icon", href: "/imgs/favicon.ico" }]],
-  title: "速学Webpack5",
-  description: "用最简单的方式学习Webpack5",
-
-  port: "0512",
-
+  title: "web tips",
+  description: "前端实用小技巧",
+  port: "2304",
+  open: true,
   // 主题和它的配置
   theme: "@vuepress/theme-default",
   themeConfig: {
-    logo: "/imgs/webpack-logo.svg",
+    logo: "/imgs/logo.svg",
     repoLabel: "点亮⭐收藏",
+    repo: "https://github.com/li1025600611/vuepress-interview",
     editLinks: true,
     docsDir: "docs",
     editLinkText: "为该章节纠错",
@@ -34,10 +33,6 @@ module.exports = {
         text: "😶‍🌫️ 进阶篇",
         link: "/senior/",
       },
-      {
-        text: "🤔 原理篇",
-        link: "/origin/",
-      },
     ],
     sidebar: {
       "/base/": [
@@ -45,13 +40,14 @@ module.exports = {
           text: "基础篇",
           children: [
             "/base/README.md",
-            "/base/example.md",
-            "/base/plugin.md",
-            "/base/loader.md",
-            "/base/asset.md",
-            "/base/server.md",
-            "/base/env.md",
-            "/base/summary.md",
+            "/base/js.md",
+            "/base/es6.md",
+            "/base/css.md",
+            "/base/http.md",
+            "/base/react.md",
+            "/base/webpack.md",
+            "/base/react.md",
+            "/base/array.md",
           ],
         },
       ],
@@ -60,19 +56,12 @@ module.exports = {
           text: "进阶篇",
           children: [
             "/senior/README.md",
-            "/senior/source-map.md",
-            "/senior/hmr.md",
-            "/senior/tree-shaking.md",
-            "/senior/code-split.md",
-            "/senior/react-cli.md",
-            "/senior/optimize.md",
+            "/senior/browser.md",
+            "/senior/cookie.md",
+            "/senior/cors.md",
+            "/senior/performance.md",
+            "/senior/v8.md",
           ],
-        },
-      ],
-      "/origin/": [
-        {
-          text: "原理篇",
-          children: ["/origin/README.md"],
         },
       ],
     },
