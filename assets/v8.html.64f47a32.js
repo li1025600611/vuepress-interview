@@ -1,1 +1,0 @@
-const e={key:"v-1be80c1e",path:"/senior/v8.html",title:"v8 \u5F15\u64CE",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1689250539e3,contributors:[{name:"vincy.li",email:"vincy.li@cloudwise.com",commits:1}]},filePathRelative:"senior/v8.md"};export{e as data};

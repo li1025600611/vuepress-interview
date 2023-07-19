@@ -1,1 +1,0 @@
-const e={key:"v-157a9ed2",path:"/senior/browser.html",title:"\u6D4F\u89C8\u5668",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1689250539e3,contributors:[{name:"vincy.li",email:"vincy.li@cloudwise.com",commits:1}]},filePathRelative:"senior/browser.md"};export{e as data};

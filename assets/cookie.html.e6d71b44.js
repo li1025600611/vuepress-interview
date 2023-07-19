@@ -1,1 +1,0 @@
-import{_ as e,o,c,b as a,a as t}from"./app.67d9887e.js";const r={},s={id:"cookie",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#cookie","aria-hidden":"true"},"#",-1);function i(n,d){return o(),c("h1",s,[_,a(" cookie")])}var f=e(r,[["render",i],["__file","cookie.html.vue"]]);export{f as default};

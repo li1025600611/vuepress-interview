@@ -1,1 +1,0 @@
-const e={key:"v-a88d4362",path:"/senior/cookie.html",title:"cookie",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1689250539e3,contributors:[{name:"vincy.li",email:"vincy.li@cloudwise.com",commits:1}]},filePathRelative:"senior/cookie.md"};export{e as data};

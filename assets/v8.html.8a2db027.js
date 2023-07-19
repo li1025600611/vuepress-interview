@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,b as r,a as c}from"./app.67d9887e.js";const o={},s={id:"v8-\u5F15\u64CE",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#v8-\u5F15\u64CE","aria-hidden":"true"},"#",-1);function n(d,h){return a(),t("h1",s,[_,r(" v8 \u5F15\u64CE")])}var f=e(o,[["render",n],["__file","v8.html.vue"]]);export{f as default};

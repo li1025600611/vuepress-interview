@@ -1,0 +1,1 @@
+const e={key:"v-0b522d26",path:"/senior/cors.html",title:"\u8DE8\u57DF",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1689758456e3,contributors:[{name:"vincy.li",email:"vincy.li@cloudwise.com",commits:1}]},filePathRelative:"senior/cors.md"};export{e as data};

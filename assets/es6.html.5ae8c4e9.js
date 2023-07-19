@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as s,b as t,a as r}from"./app.67d9887e.js";const c={},o={id:"es6",tabindex:"-1"},_=r("a",{class:"header-anchor",href:"#es6","aria-hidden":"true"},"#",-1);function n(d,h){return a(),s("h1",o,[_,t(" es6")])}var f=e(c,[["render",n],["__file","es6.html.vue"]]);export{f as default};

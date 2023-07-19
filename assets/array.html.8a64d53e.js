@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as r,b as t,a as c}from"./app.67d9887e.js";const o={},s={id:"array",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#array","aria-hidden":"true"},"#",-1);function n(d,h){return e(),r("h1",s,[_,t(" array")])}var f=a(o,[["render",n],["__file","array.html.vue"]]);export{f as default};
